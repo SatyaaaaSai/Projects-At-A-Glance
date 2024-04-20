@@ -5,7 +5,7 @@
 # 1)Food-Fire App || [Project Repository](https://github.com/SatyaaaaSai/Namaste-React)
 #### TechStack:ReactJS,ParcelJS,React-router-dom,API,TailwindCSS.
 ## [Live Link ](https://food-fleet.netlify.app/).
-### While clicking above link.please install Allow CORS web Extension. [Click This For Download CORS](https://chromewebstore.google.com/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf?pli=1)
+### While clicking above link,please install Allow CORS web Extension. [Click This For Download CORS](https://chromewebstore.google.com/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf?pli=1)
 
 # 2)Metube-A video Streaming Platform || [Project Repository](https://github.com/SatyaaaaSai/me-tube).
 #### TechStack:ReactJS,react-router-dom,ParcelJS,Youtube-API,TailwindCSS.
