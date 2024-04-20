@@ -1,6 +1,6 @@
 # Projects-At-A-Glance
 
-## Comprehensive repository showcasing my ongoing web development journey through diverse projects, offering a consolidated overview of my practical skills development.
+#### Comprehensive repository showcasing my ongoing web development journey through diverse projects, offering a consolidated overview of my practical skills development.
 
 # 1)Food-Fire App || [Project Repository](https://github.com/SatyaaaaSai/Namaste-React)
 ### TechStack:ReactJS,ParcelJS,React-router-dom,API,TailwindCSS.
